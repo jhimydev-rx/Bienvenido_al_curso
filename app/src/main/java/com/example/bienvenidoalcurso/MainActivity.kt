@@ -109,7 +109,7 @@ fun GreetingCard() {
                     Text(
                         text = "Android Developer Extraordinaire",
                         color = Color(0xFF2B4D1B),
-                        fontSize = 20.sp,
+                        fontSize = 16.sp,
                         fontFamily = FontFamily.SansSerif,
                         fontWeight = FontWeight.Bold,
                     )
