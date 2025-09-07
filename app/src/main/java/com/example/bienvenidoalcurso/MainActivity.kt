@@ -98,7 +98,7 @@ fun GreetingCard() {
                 ) {
                     Text(
                         text = "Jennifer Doe",
-                        fontSize = 35.sp,
+                        fontSize = 50.sp,
                         fontFamily = FontFamily.SansSerif
                     )
                 }
